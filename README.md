@@ -1,6 +1,6 @@
 # cartTrackerAPI
 
-Testing out falcon
+A small project just testing out the [falcon web framework](https://github.com/falconry/falcon).
 
 ## installing
 
